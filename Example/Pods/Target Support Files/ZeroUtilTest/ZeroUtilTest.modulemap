@@ -1,0 +1,6 @@
+framework module ZeroUtilTest {
+  umbrella header "ZeroUtilTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

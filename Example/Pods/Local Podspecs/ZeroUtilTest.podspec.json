@@ -1,0 +1,22 @@
+{
+  "name": "ZeroUtilTest",
+  "version": "0.1.0",
+  "summary": "A short description of ZeroUtilTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1187551834@qq.com/ZeroUtilTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1187551834@qq.com": "luoyongping@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/1187551834@qq.com/ZeroUtilTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZeroUtilTest/Classes/**/*"
+}

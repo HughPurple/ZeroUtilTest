@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (7.3.4)
+  - Quick (1.2.0)
+  - ZeroUtilTest (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0)
+  - Quick (~> 1.2.0)
+  - ZeroUtilTest (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  ZeroUtilTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  ZeroUtilTest: 9e8c12d8ac7be1e0df7cdaf067e6ad1ab473f915
+
+PODFILE CHECKSUM: 0e58859f4e32570661c12852ea54537cc47a1de2
+
+COCOAPODS: 1.8.4

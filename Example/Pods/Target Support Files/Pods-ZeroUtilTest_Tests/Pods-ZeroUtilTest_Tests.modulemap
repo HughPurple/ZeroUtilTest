@@ -1,0 +1,6 @@
+framework module Pods_ZeroUtilTest_Tests {
+  umbrella header "Pods-ZeroUtilTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
