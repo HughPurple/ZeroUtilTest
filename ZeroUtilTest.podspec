@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'ZeroUtilTest/Classes/**/*'
   
-  s.swift_version         = '4.2
+  s.swift_version = '4.2'
   # s.resource_bundles = {
   #   'ZeroUtilTest' => ['ZeroUtilTest/Assets/*.png']
   # }
